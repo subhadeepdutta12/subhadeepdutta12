@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My Name Is Subhadeep Dutta | B.Tech in IT'25 | Passionate Web Developer | Open to Opportunities 🚀</h2>
+<h2 align="left">Hi👋 My Name Is Subhadeep Dutta | B.Tech in IT'25 | Passionate Web Developer | Open to Opportunities 🚀</h2>
 
 ###
 
